@@ -60,7 +60,7 @@ poetry install
 poetry shell
 ```
 
-Executando
+Executable
 
 ```bash
 beerlog
@@ -69,3 +69,5 @@ python -m beerlog
 ```
 
 Se apareceu `Hello from beerlog` então está tudo certo.
+
+https://github.com/rochacbruno/python-week-2022/tree/final_day3
