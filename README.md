@@ -71,3 +71,5 @@ python -m beerlog
 Se apareceu `Hello from beerlog` então está tudo certo.
 
 https://github.com/rochacbruno/python-week-2022/tree/final_day3
+
+## Tratamento Banco de Dados: 1h e 32min
