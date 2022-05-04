@@ -73,3 +73,6 @@ Se apareceu `Hello from beerlog` então está tudo certo.
 https://github.com/rochacbruno/python-week-2022/tree/final_day3
 
 ## Tratamento Banco de Dados: 1h e 32min
+
+## Erro Dynaconf => adicionar no settings.json em .vscode
+"python.autoComplete.extraPaths": ["C:/Users/renato.alves/Desktop/python-week-2022"]

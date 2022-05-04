@@ -19,5 +19,6 @@
     "coverage.xml": true,
     ".pytest_cache": true
   },
-  "editor.mouseWheelZoom": true
+  "editor.mouseWheelZoom": true,
+  "python.autoComplete.extraPaths": ["C:/Users/renato.alves/Desktop/python-week-2022"]
 }
